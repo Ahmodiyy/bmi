@@ -1,9 +1,5 @@
 # bmi
 
-Body mass index (BMI) is a measure of body fat based on height and weight that applies to adult men and women.
+Body mass index (BMI) is a measure of body fat based on height and weight that applies to adult men and women. Crafted with Flutter for a seamless user experience. Easily assess your health journey by calculating your Body Mass Index (BMI) using this intuitive and user-friendly app. Input your height and weight, and watch as the app instantly computes your BMI, providing you with valuable insights into your health. Whether you're on a fitness path or simply aiming for a healthier lifestyle, this app is here to help you track and monitor your progress with ease.
 
-![Screenshot_20220111-143112](https://github.com/Ahmodiyy/bmi/blob/master/images/Screenshot_20220111-143112.png)
-![Screenshot_20220111-143159](https://github.com/Ahmodiyy/bmi/blob/master/images/Screenshot_20220111-143159.png)
-![Screenshot_20220111-143234](https://github.com/Ahmodiyy/bmi/blob/master/images/Screenshot_20220111-143234.png)
-![Screenshot_20220111-143314](https://github.com/Ahmodiyy/bmi/blob/master/images/Screenshot_20220111-143314.png)
-
+![bmi](https://github.com/Ahmodiyy/bmi/assets/61211517/6df16d66-345c-417c-a247-6b99e8ebbce5)
